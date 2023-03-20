@@ -1,0 +1,149 @@
+
+h1{
+    padding: 5px;
+    background-image: url("photo_Goré.jpg");
+    background-size: cover;
+}
+
+h2{
+    color: black;
+}
+h1{
+	margin-top: 5px;
+    color:linear-Gradient (#4286f4 #373B44);
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+a:hover {
+    background-color:rgb(131, 131, 248) ;
+
+
+}
+.big{
+    position: relative;
+    width: 300px;
+    height: 400px;
+    margin: 12px;
+    margin-bottom: 10px;
+    background-image: url("https://th.bing.com/th/id/R.45dda92eca67c458b821d0fa27bac58c?rik=p0sro7fvv34mRg&pid=ImgRaw&r=0");
+    background-size: cover;
+    box-shadow:   10px 10px 10px rgb(131, 131, 248) ;
+    
+    
+}
+
+.tete ul li{
+    display: inline-block;
+    margin-left: 20px;
+    padding: 30px;
+  
+  }
+  .tete{
+     text-align: center;
+     
+  }
+  .lien{
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+  }
+  
+ .lien:hover{
+    padding: 20px;
+    margin-left: 15px;
+    background-color: brown;
+    color: whitesmoke;
+    border: 3px solid black;
+ }
+
+.tout{
+    display: flex;
+    padding: 10px;
+    
+ }
+.Maison{
+    position: relative;
+    width: 300px;
+    height: 400px;
+    margin: 12px;
+    margin-bottom: 10px;
+    background-image: url("5f8301c6162b75.73486599.png");
+    background-size: cover;
+    box-shadow:   10px 10px 10px brown ;
+    
+}
+.Presentation{
+     padding: 5px;
+     margin: 5px;
+    background-color:rgb(131, 131, 248) ;
+    color: whitesmoke;
+    text-align: center;
+    
+}
+.maisone {
+    padding: 0;
+     margin: 5px;
+     background-color: brown;
+     color: whitesmoke;
+     text-align: center;
+}
+.images{
+    position: relative;
+    width: 300px;
+    height: 400px;
+    margin: 12px;
+    margin-bottom: 10px;
+    background-image: url("https://th.bing.com/th/id/R.c6960d395a72e45e2f89e0e18b5b3790?rik=Hn0C7fUwWZSgSQ&pid=ImgRaw&r=0");
+    background-size: cover;
+    box-shadow:   10px 10px 10px cornflowerblue ;
+    text-align: center;
+
+}
+.photo{
+    padding: 5px;
+     margin: 5px;
+    background-color:cornflowerblue ;
+    color: whitesmoke;
+
+}
+.administration{
+    position: relative;
+    width: 300px;
+    height: 400px;
+    margin: 12px;
+    margin-bottom: 10px;
+    background-image: url("1620px-Ile_gorée1.jpg");
+    background-size: cover;
+    box-shadow:   10px 10px 10px cornflowerblue ;
+    text-align: center;
+
+}
+.endroits{
+    position: relative;
+    width: 300px;
+    height: 400px;
+    margin: 12px;
+    margin-bottom: 10px;
+    background-image: url("330px-Map_of_Goree.svg.png");
+    background-size: cover;
+    box-shadow:   10px 10px 10px #000000 ;
+    text-align: center;
+
+}
+
+.mg{
+    float: left;
+    padding: 20px;
+}
+button{
+    position: to right;
+float:right;
+background-color: black;
+border-radius: 5px;
+margin-left: 5px;
+color:white;
+border-color: black;
+    }
+

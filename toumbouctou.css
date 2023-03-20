@@ -1,0 +1,64 @@
+.tete{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-image: url(Fortier_368_Timbuktu_Sankore_Mosque.jpg);
+text-align: right;
+color: whitesmoke;
+padding: 130px;
+background-attachment: fixed;
+background-size: cover;
+background-position: bottom;
+margin-bottom: 10px;
+}
+.cotainer{
+line-height: 1.6;
+}
+.one{
+float: left;
+shape-outside: margin-box;
+margin: 0 10px 0px 0;
+}
+.two{
+display: inline;
+line-height: 1.4;
+} 
+.p2{
+float:right;
+}
+.manu{
+    float: left;
+shape-outside: margin-box;
+margin: 0 10px 0px 0;
+}
+.ville{
+background: linear-gradient(to right,#C9D6FF,#E2E2E2);
+font-weight: 800;
+margin-top: 10px;
+ }
+ h2,h3{
+color: blue;
+text-decoration-style: double;
+font-size: 4em;
+margin-top: 10px;
+}
+p{
+margin-top: 10px;
+}
+.pied{
+
+background-color: azure;
+}
+form{
+padding: 40px;
+width: 100px;
+display: inline-block;
+}
+button{
+position: to right;
+float:right;
+background-color: black;
+border-radius: 5px;
+margin-left: 5px;
+color:white;
+border-color: black;
+
+}

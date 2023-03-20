@@ -1,0 +1,32 @@
+.tete{
+background-image: url(istockphoto-1469869191-1024x1024.jpg);
+background-position: center;
+background-size: cover;
+text-align: end;
+padding: 100px;
+}
+.corps{
+background: linear-gradient(to right,white, #4286f4);
+padding: 10%;
+line-height: 1.4;
+}
+img{
+    float: left; 
+    padding: 10px;
+    margin-top: 10px;
+    
+}
+h2{
+text-align: center;
+text-decoration: dotted;
+font-size: 3em;
+}
+button{
+    position: to right;
+    float:right;
+    background-color: black;
+    border-radius: 5px;
+    margin-left: 5px;
+    color:white;
+    border-color: black;
+}

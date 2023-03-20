@@ -1,0 +1,132 @@
+ 
+   
+ h1{
+   display: block;
+   margin: auto;
+   text-align: center; 
+  padding: 5px; 
+   background-image: url("R.jpg");
+   background-size: cover;
+ }
+ 
+ .lien{
+   color: black;
+   text-decoration: none;
+   padding: 15px;
+ }
+ 
+.lien:hover{
+   padding: 20px;
+   margin-left: 15px;
+   background-color: brown;
+   color: whitesmoke;
+   border: 3px solid black;
+}
+.box{
+   color: whitesmoke;
+   text-decoration: none;
+}
+.tete ul li{
+  display: inline-block;
+  margin-left: 20px;
+  padding: 30px;
+  
+
+}
+.tete{
+   text-align: center;
+   
+}
+ 
+.every{
+   display: flex;
+   padding: 40px;
+   width: 90%;
+   margin-left: 45px;
+   background-image: url("R.jpg");
+   background-size: cover;
+   
+   
+}
+
+.one, .two, .three , .four {
+   padding: 90px;
+   margin-left: 50px;
+    width: 300px;
+    height: 400px;
+    margin: 5px;
+
+   
+}
+.one{
+   background-image: url("High_resolution_wallpaper_background_ID_77700314916.jpg");
+   background-size: cover;
+   color: whitesmoke;
+   opacity: 0.5;
+}
+.one:hover{
+   opacity: initial;
+
+}
+.two{
+   background-image: url("https://www.par-ci-par-la.com/wp-content/uploads/2018/03/349-New-York-Statue-Libert%C3%A9-e1521063740325-768x1023.jpg");
+   background-size: cover;
+   opacity: 0.5;
+}
+.two:hover{
+   opacity: initial;
+}
+.three{
+   background-image: url("Head_of_the_Statue_of_Liberty_on_display_in_a_park_in_Paris (1).jpg") ;
+   background-size: cover;
+   opacity: 0.5;
+
+}
+.three:hover{
+   opacity: initial;
+
+}
+.four{
+   background-image: url("01-statue-of-liberty-facts.jpg");
+   background-size: cover;
+   opacity: 0.5;
+}
+.four:hover{
+   opacity: initial;
+
+}
+
+.first,.second,.thirst,.fourth{
+   padding: 10px;
+     margin-left: 10px;
+     width: 200px;
+    background-color:rgb(131, 131, 248) ;
+    color: whitesmoke;
+    text-align: center;
+    
+    
+}
+.histoire{
+   float: left;
+   padding: 30px;
+
+}
+img{
+   float: left;
+   padding: 25px;
+}
+.box{
+   text-decoration: none;
+}
+button{
+   position: to right;
+float:right;
+background-color: black;
+border-radius: 5px;
+margin-left: 5px;
+color:white;
+border-color: black;
+   }
+
+
+
